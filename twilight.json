@@ -549,16 +549,15 @@
                     "type": "string",
                     "icon": "sicon-image",
                     "value": null,
-                    "label": "صورة الخلفية",
+                    "label": "شريط اعلانى ",
                     "id": "background",
-                    "format": "image",
+                    "format": "string",
                     "required": true,
-                    "placeholder": "",
-                    "description": "* المقاس المناسب للصورة هو 1233×500 بكسل",
-                    "settings": {
+                    
                         "height": 580,
                         "width": 1400
                     }
+                    span style="font-weight: bold;"><script src="http://sites.google.com/site/taliblogsite/file/Headlines-ar-widget.txt"> </script><script style=""> var nMaxPosts = 20; var sBgColor; var nWidth; var nScrollDelay = 170; var sDirection="right"; var sOpenLinkLocation="N"; var sBulletChar="»»"; </script><script style="" src="http://ezzeldin-ahmed.blogspot.com/feeds/posts/default?alt=json-in-script&amp;callback=RecentPostsScrollerv2"></script><scriqt style="color: rgb(51, 51, 255);"><span style=""></span></scriqt></span><span style="font-weight: bold;"><span style="font-style: italic;"></span></span>
                 },
                 {
                     "type": "string",
